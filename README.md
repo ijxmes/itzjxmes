@@ -15,14 +15,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 </p>
 
-
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-
 ## Follow if cool:
 <p align="left">
 
