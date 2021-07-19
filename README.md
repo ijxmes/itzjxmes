@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,IM THE BIG JAMES</h1>
+<h1 align="center">IM THE BIG JAMES</h1>
 <h3 align="center">Built Different (seriously)</h3>
 
 
