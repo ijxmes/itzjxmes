@@ -7,7 +7,7 @@
 
 - I code (sometimes)
 
-## 🚀 Languages and Tools:
+## 🚀 Languages:
 
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
